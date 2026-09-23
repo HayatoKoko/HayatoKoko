@@ -1,4 +1,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=.+.+.+.+.;" />
 
 
-![Uploading HHI-hLLasAAE7IA.png…]()
